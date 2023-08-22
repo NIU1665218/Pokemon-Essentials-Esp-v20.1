@@ -1,0 +1,136 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Pueblo Hikari
+Name = Pueblo Hikari
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Casa de \PN
+Name = Casa de \PN
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Laboratorio de Hana
+Name = Laboratorio de Hana
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[042]   # Ruta 1
+Name = Ruta 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+BattleBack = field
+#-------------------------------
+[005]   # Pueblo Mizukami
+Name = Pueblo Mizukami
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,12
+BattleBack = field
+#-------------------------------
+[006]   # Centro Pokemon Mizukami
+Name = Pueblo Mizukami
+HealingSpot = 5,14,13
+MapPosition = 0,15,12
+#-------------------------------
+[006]   # Tienda Pokemon Mizukami
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[009]   # Escuela Mizukami
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[010]   # Casa Random 1
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[011]   # Casa Random 2
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[012]   # Casa Random 3
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[013]   # Casa Random 4
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[014]   # Ruta 2
+Name = Ruta 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,11
+BattleBack = field
+#-------------------------------
+[015]   # Ruta 3
+Name = Ruta 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,10
+BattleBack = water
+#-------------------------------
+[016]   # Gruta Mizunaka
+Name = Gruta Mizunaka
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,10
+BattleBack = cave
+#-------------------------------
+[017]   # Ciudad Shinrin
+Name = Ciudad Shinrin
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,9
+BattleBack = city
+#-------------------------------
+[109]   # Cedolan City Poké Center
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[110]   # Cedolan Gym
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[114]   # Cedolan Dept. 1F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[115]   # Cedolan Dept. 2F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[121]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[129]   # Natural Park Entrance
+Name = Natural Park
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[134]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+

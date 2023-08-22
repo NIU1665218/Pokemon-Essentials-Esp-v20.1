@@ -1,0 +1,22 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Pueblo Hikari (2) - Ruta 1 (42)
+42,W,0,2,E,0
+
+# Pueblo Hikari (2) - Parte Izquierda Hikari (66)
+2,W,0,66,E,0
+
+# Abajo Hikari (69) - Pueblo Hikari (2)
+69,N,12,2,S,0
+
+# Ruta 1 (42) - Pueblo Mizukami (5)
+42,E,0,5,W,0
+
+#Pueblo Mizukami (5) - Ruta 2 (14)
+5,N,0,14,S,0
+
+#Pueblo Mizukami(5) - Ruta 3 (15)
+5,S,0,15,N,0
+
+#Ruta 2(14) - Ciudad Shinrin (17)
+14,N,0,17,S,0
