@@ -20,3 +20,6 @@
 
 #Ruta 2(14) - Ciudad Shinrin (17)
 14,N,0,17,S,0
+
+#Ciudad Shinrin (17) - Ruta 4 (20)
+17,W,0,20,E,0

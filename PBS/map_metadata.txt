@@ -91,10 +91,12 @@ ShowArea = true
 MapPosition = 0,15,9
 BattleBack = city
 #-------------------------------
-[109]   # Cedolan City Poké Center
-Name = Cedolan City
-HealingSpot = 8,17,11
-MapPosition = 0,14,10
+[020]   # Ruta 4
+Name = Ruta 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,11
+BattleBack = field
 #-------------------------------
 [110]   # Cedolan Gym
 Name = Cedolan City

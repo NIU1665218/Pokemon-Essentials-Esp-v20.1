@@ -19,7 +19,7 @@ Gimnasio 7: Hielo - En las montañas nevadas todo el año - Desafio: puzzle hiel
 MOFuerza: Te lo da el lider despues de la batalla, antes de ir a la cima, dice que lo necesitarás.
 El rival estará en la cima tambien, batalla por quien lo atrapa.
 En la cima de la montaña batalla legendario.
-Gimnasio 8: Acero - En las montañas tb - Desafio: 
+Gimnasio 8: Acero - En las montañas tb - Desafio: Memory???
 MOTrepaRocas: Te lo da la profesora despues de ver que tienes las 8 medallas.
 
 Elite 1: Fuego
