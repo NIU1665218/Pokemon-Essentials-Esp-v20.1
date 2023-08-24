@@ -98,6 +98,13 @@ ShowArea = true
 MapPosition = 0,14,11
 BattleBack = field
 #-------------------------------
+[025]   # Ruta 5
+Name = Ruta 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
 [110]   # Cedolan Gym
 Name = Cedolan City
 MapPosition = 0,13,10
