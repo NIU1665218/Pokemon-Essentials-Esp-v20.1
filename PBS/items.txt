@@ -1476,7 +1476,7 @@ Name = Arena Fina
 NamePlural = Arenas Finas
 Pocket = 1
 Price = 3000
-SellPrice = 500
+SellPrice = 0
 Flags = Fling_10
 Description = Debe llevarla un Pokémon. La suavidad de la arena fortalece los ataques de tipo Tierra.
 #-------------------------------
