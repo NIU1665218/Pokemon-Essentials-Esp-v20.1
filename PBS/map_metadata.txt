@@ -98,6 +98,12 @@ ShowArea = true
 MapPosition = 0,14,11
 BattleBack = field
 #-------------------------------
+[021]   # Gimnasio Shinrin
+Name = Gimnasio Shinrin
+MapPosition = 0,15,9
+BattleBack = indoor3
+Flags = DisableBoxLink
+#-------------------------------
 [025]   # Ruta 5
 Name = Ruta 5
 Outdoor = true
@@ -105,20 +111,63 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[110]   # Cedolan Gym
-Name = Cedolan City
-MapPosition = 0,13,10
-BattleBack = indoor3
-Environment = Rock
+[027]   # Ruta 6
+Name = Ruta 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = forest
+#-------------------------------
+[028]   # Ciudad Midorishi
+Name = Ciudad Midorishi
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+BattleBack = forest
+#-------------------------------
+[029]   # Páramo LightHole
+Name = Páramo LightHole
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = forest
+#-------------------------------
+[030]   # Gimnasio Midorishi
+Name = Gimnasio Midorishi
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,14
+BattleBack = forest
 Flags = DisableBoxLink
 #-------------------------------
-[114]   # Cedolan Dept. 1F
-Name = Cedolan City
-MapPosition = 0,13,10
+[036]   # Ruta 7
+Name = Ruta 7
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,13
+Battleback = field
 #-------------------------------
-[115]   # Cedolan Dept. 2F
-Name = Cedolan City
-MapPosition = 0,13,10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------
 [121]   # Route 2
 Name = Route 2

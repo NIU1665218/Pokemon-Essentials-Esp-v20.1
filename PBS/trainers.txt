@@ -154,4 +154,81 @@ LoseText = ¡Buen combate!
 Pokemon = RYURIZARD,63
     Item = SITRUSBERRY
 #-------------------------------
+[GENTLEMAN, Arnau]
+LoseText = Estar en este bosque me apacigua la derrota.
+Pokemon = SEEDOT, 10
+Pokemon = PHANTUMP, 12
+#-------------------------------
+[BUGCATCHER, Antonio]
+LoseText = Veo que vienes preparado al gimnasio
+Pokemon = CHESPIN, 15
+Pokemon = COTTONEE, 15
+#-------------------------------
+[POKEMONBREEDER, Elisa]
+LoseText = Noo, se me olvidó ponerle el mineral evolutivo
+Pokemon = LOTAD, 18
+#-------------------------------
+[GENTLEMAN, Martin]
+LoseText = No estoy en mis buenos tiempos
+Pokemon = PETILIL, 16
+Pokemon = PANSAGE, 16
+#-------------------------------
+[BUGCATCHER, Ramón]
+LoseText = Mucha suerte con la líder
+Pokemon = GROTLE, 18
+#-------------------------------
+[LEADER_Petunia, Petunia]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Felicidades por tu segunda medalla
+Pokemon = CHERUBI,19
+    Gender = male
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ROSELIA,20
+    Gender = female
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = BAYLEEF2, 21
+    Gender = female
+    AbilityIndex = 0
+    Shiny = yes
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[GENTLEMAN, Ivan]
+LoseText= Pues tan buen día no hacía
+Pokemon = GROWLITHE, 18
+Pokemon = PINECO, 18
+#-------------------------------
+[HIKER, Mario]
+LoseText = Me distraje con esa piedra
+Pokemon = GEODUDE, 20
+Pokemon = GEODUDE, 20
+#-------------------------------
+[LASS, "Aurora"]
+LoseText = Subiré este combate a Pokegram, ha sido impresionante
+Pokemon = PONYTA, 19
+Pokemon = AIPOM, 19
+Pokemon = SHINX, 19
+#-------------------------------
+[PSYCHIC_F, "Sofía"]
+LoseText = No predije ese movimiento
+Pokemon = PSYDUCK, 19
+Pokemon = MEDITITE, 21
+#-------------------------------
+[HIKER, "Julián"]
+LoseText = Se me agotaron las energias de tanto andar
+Pokemon = RHYHORN, 23
+#-------------------------------
+[BLACKBELT, "Lario"]
+LoseText = Quiero venganza algún día
+Pokemon = THROH, 21
+Pokemon = SAWK, 21
+
+
+
+
+
+#-------------------------------
 

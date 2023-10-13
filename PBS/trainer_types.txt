@@ -399,3 +399,28 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[DOUBLE_VALOR]
+Name = Investigadores
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[TEAM_VALOR_M]
+Name = Investigador
+Gender = Male
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[TEAM_VALOR_F]
+Name = Investigadora
+Gender = Female
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[LEADER_Petunia]
+Name = Líder de Gimnasio
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
