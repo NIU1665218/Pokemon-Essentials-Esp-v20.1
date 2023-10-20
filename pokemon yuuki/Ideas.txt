@@ -127,9 +127,9 @@ Ivan:
 
 Gensi:
 - Kricketune
-- Smeargle
+- Mawile
 - Dusknoir
-- Avalugg
+- Mamoswine
 - Barbacle
 - Typhlosion2
 
