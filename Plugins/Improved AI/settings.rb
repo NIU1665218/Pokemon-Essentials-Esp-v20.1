@@ -14,6 +14,6 @@ module Settings
   # Increasing this value too much can lead to integer overflow. Please avoid
   # values over 12.
   #-----------------------------------------------------------------------------
-  MIN_EXPONENT = 1.5
-  MAX_EXPONENT = 6.0
+  MIN_EXPONENT = 3.0
+  MAX_EXPONENT = 8.0
 end
