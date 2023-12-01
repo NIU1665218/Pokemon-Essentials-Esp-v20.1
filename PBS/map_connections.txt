@@ -34,3 +34,5 @@
 29,South,0,35,North,0
 #Ciudad Midorishi(28) - Ruta 7(36)
 28,North,0,36,South,0
+#Ruta 7(36) - Ruta 8(37)
+36, East, 0, 37, West, 0

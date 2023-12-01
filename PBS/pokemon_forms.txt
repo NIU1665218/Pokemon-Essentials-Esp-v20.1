@@ -579,3 +579,6 @@ Weight=490.0
 BattlerPlayerY=-6
 BattlerEnemyY=5
 BattlerAltitude=1
+#-------------------------------
+[FLOETTE-5]
+FormName = Floette Eterno

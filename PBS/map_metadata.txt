@@ -82,7 +82,7 @@ Name = Gruta Mizunaka
 Outdoor = true
 ShowArea = true
 MapPosition = 0,15,10
-BattleBack = cave
+BattleBack = cave1
 #-------------------------------
 [017]   # Ciudad Shinrin
 Name = Ciudad Shinrin
@@ -147,15 +147,26 @@ ShowArea = true
 MapPosition = 0,14,13
 Battleback = field
 #-------------------------------
-
-
-
-
-
-
-
-
-
+[037]   # Ruta 8
+Name = Ruta 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,13
+Battleback = field
+#-------------------------------
+[038]	#Gruta Kingen
+Name = Gruta Kingen
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,14
+BattleBack = cave1
+#-------------------------------
+[039]	#Pueblo Subterraneo Dorunen
+Name= Pueblo Subterraneo Dorunen
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,14
+Battleback = field
 
 
 

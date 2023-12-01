@@ -146,8 +146,13 @@ Pokemon = CAFE,7
 #-------------------------------
 [RIVAL1,Alex,1]
 LoseText = No está nada mal.
+Pokemon = PIDGEY,5
+Pokemon = CAFE,7
+#-------------------------------
+[RIVAL1,Alex,2]
+LoseText = No está nada mal.
 Pokemon = PIDGEY,3
-Pokemon = QUILING,7
+Pokemon = QUORKKI,7
 #-------------------------------
 [CHAMPION,Alex]
 LoseText = ¡Buen combate!
@@ -203,32 +208,55 @@ Pokemon = PINECO, 18
 #-------------------------------
 [HIKER, Mario]
 LoseText = Me distraje con esa piedra
-Pokemon = GEODUDE, 20
-Pokemon = GEODUDE, 20
+Pokemon = GEODUDE, 16
+Pokemon = GEODUDE, 18
 #-------------------------------
 [LASS, "Aurora"]
 LoseText = Subiré este combate a Pokegram, ha sido impresionante
-Pokemon = PONYTA, 19
-Pokemon = AIPOM, 19
-Pokemon = SHINX, 19
+Pokemon = PONYTA, 18
+Pokemon = AIPOM, 18
+Pokemon = SHINX, 18
 #-------------------------------
 [PSYCHIC_F, "Sofía"]
 LoseText = No predije ese movimiento
-Pokemon = PSYDUCK, 19
-Pokemon = MEDITITE, 21
+Pokemon = PSYDUCK, 18
+Pokemon = MEDITITE, 17
 #-------------------------------
 [HIKER, "Julián"]
 LoseText = Se me agotaron las energias de tanto andar
-Pokemon = RHYHORN, 23
+Pokemon = RHYHORN, 19
 #-------------------------------
 [BLACKBELT, "Lario"]
 LoseText = Quiero venganza algún día
-Pokemon = THROH, 21
-Pokemon = SAWK, 21
-
-
-
-
-
+Pokemon = THROH, 17
+Pokemon = SAWK, 16
 #-------------------------------
-
+[BLACKBELT, "Perseo"]
+LoseText = La venganza es mi destino inmutable.
+Pokemon = GURDURR, 17
+Pokemon = BRELOOM, 19
+#-------------------------------
+[CUEBALL, "Sarco"]
+LoseText = Cada desafío me acerca a mi revancha.
+Pokemon = LAIRON, 18
+Pokemon = VIBRAVA, 17
+Pokemon = GEODUDE, 18
+#-------------------------------
+[HIKER, "Carlos"]
+LoseText = La furia me impulsa hacia la victoria.
+Pokemon = CRUSTLE, 20
+#-------------------------------
+[RIVAL1, "Alex", 3]
+LoseText = Se nota que has superado 2 gimnasios.
+Pokemon = RIOLU, 19
+Pokemon = FLOETTE_5, 19
+Pokemon = DUSCLOPS, 19
+Pokemon = CAFE, 22
+#-------------------------------
+[RIVAL1, "Alex", 4]
+LoseText = Se nota que has superado 2 gimnasios.
+Pokemon = RIOLU, 19
+Pokemon = FLOETTE_5, 19
+Pokemon = DUSCLOPS, 19
+Pokemon = CAFE, 22
+#-------------------------------
